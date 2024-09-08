@@ -1,0 +1,35 @@
+{
+    "education":[
+        {
+            "title": "2023 - 2025 ",
+            "cardTitle": "Master of Business Administration (MBA) Finance",
+            "cardSubtitle":"Army Institute of Management, Kolkata
+Maulana Abul Kalam Azad University of Technology",
+            "cardDetailedText": "Pursing",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+{
+            "title": "2019 - 2022 ",
+            "cardTitle": "Bachlors of Business Administration ",
+            "cardSubtitle":"Rungta Collage of Science and technology Durg ",
+            "cardDetailedText": "74%",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        }
+        {
+            "title": "2019",
+            "cardTitle": "Class XII (CBSE)",
+            "cardSubtitle":"Army Public School, Udhampur,J and K",
+            "cardDetailedText": "Marks - 65%"
+        }
+{
+            "title": "2017",
+            "cardTitle": "Class X(CBSE)",
+            "cardSubtitle":"Army Public School, Udhampur,J and K",
+            "cardDetailedText": "Marks - 70%"
+        }
+    ]
+}

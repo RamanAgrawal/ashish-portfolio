@@ -1,0 +1,47 @@
+{
+    "experiences": [
+        {
+            "title": "Finance Intern",
+            "subtitle": "State Bank of India (SBI) ",
+            "workType": "Internship",
+            "workDescription": [
+                "• Financial Inclusion Analysis: Examined financial inclusion growth rates in Kolkata between 2022, 2023, and 2024, identifying key drivers of economic growth and development.
+
+• Key Driver Identification: Identified key drivers of economic growth and development in Kolkata, providing insights for informed decision-making and strategic planning.
+
+",
+                "• Collaborative Project Experience: Refined analytical and communication skills through collaborative projects, contributing to the development of an inclusive financial ecosystem.
+
+• Impact Assessment and Strategic Investment: Assessed the impact of initiatives on rural populations and identified opportunities for strategic investment, driving financial inclusion and economic growth in underserved communities.
+"
+            ],
+            "dateText": "15/05/2024-15/07/2024 "
+        },
+        {
+            "title": "Finance Intern",
+            "subtitle": "FundsRoom",
+            "workType": "Internship",
+            "workDescription": [
+                "
+• Finance and Data Analysis Expertise: Gained a deep understanding of finance and data analysis, developing skills in technical and fundamental analysis to succeed in the fintech industry.
+
+• Fintech Industry Knowledge: Developed a broad understanding of the fintech industry, staying up-to-date with the latest developments to drive innovation and growth.
+
+• Data-Driven Decision Making: Acquired the ability to take data-driven, informed business decisions, leveraging analytical skills to drive business outcomes.
+
+• Innovation and Growth: Positioned to drive innovation and growth in the fintech industry, combining finance, data analysis, and industry knowledge to stay ahead of the curve."
+            ],
+            "dateText": "22/01/2024-22/03/2024 "
+        },
+        {
+            "title": "App Developer",
+            "subtitle": "ABC Pvt Ltd",
+            "workType": "Freelance",
+            "workDescription": [
+                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
+                "Done bcd work."
+            ],
+            "dateText": "09/20XX – 01/20YY"
+        }
+    ]
+}
